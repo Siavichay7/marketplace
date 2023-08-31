@@ -1,0 +1,46 @@
+.back {
+  position: absolute;
+  align-self: flex-start;
+  margin-bottom: 80%;
+  margin-left: 3%;
+  margin-top: 2%;
+}
+
+.img {
+  height: 450px;
+}
+
+.img-promocion {
+  height: 350px;
+}
+
+.contador {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contador ion-button {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.descripcion {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.descripcion h4 {
+  font-weight: bold;
+}
+
+.descripcion ion-text {
+  text-align: justify;
+}
+
+.no-carrito {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
